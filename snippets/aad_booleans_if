@@ -1,0 +1,5 @@
+<?php
+			$number=3.14;
+			if(is_float($number)){
+				echo "It is a float.";
+			}?>;
